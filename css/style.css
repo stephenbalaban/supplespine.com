@@ -1,0 +1,22 @@
+h1, h2, h3, h4, h5, h6 {
+	font-family: 'Rochester', cursive;
+}
+
+.hero-image {
+	display: block;
+	width: 100%;
+	height: 200px;
+	background: url(http://farm9.staticflickr.com/8146/7630069206_1b2777c1e9_o.jpg);
+	background-size: 100% auto;
+	border: 1px solid black;
+}
+
+.sub-header {
+	font-size: 0.5em;
+}
+
+.book p {
+	text-align: center;
+	font-size: 0.8em;
+	padding: 1em 1em 0 1em;
+}
